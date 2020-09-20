@@ -1,0 +1,33 @@
+{
+	"name": "typescript-airbnb-eslint-prettier",
+	"version": "0.1.5",
+	"description": "A boilerplate configuration for ESLint & Prettier using Typescript",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/sol-idsnake/typescript-airbnb-eslint-prettier.git"
+	},
+	"author": "H.W.",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/sol-idsnake/typescript-airbnb-eslint-prettier/issues"
+	},
+	"homepage": "https://github.com/sol-idsnake/typescript-airbnb-eslint-prettier#readme",
+	"devDependencies": {
+		"@types/eslint": "^7.2.2",
+		"@types/prettier": "^2.1.1",
+		"@typescript-eslint/eslint-plugin": "^4.1.1",
+		"@typescript-eslint/parser": "^4.1.1",
+		"eslint": "^7.9.0",
+		"eslint-config-airbnb-typescript": "^10.0.0",
+		"eslint-config-prettier": "^6.11.0",
+		"eslint-plugin-import": "^2.22.0",
+		"prettier": "^2.1.2"
+	},
+	"dependencies": {
+		"typescript": "^4.0.3"
+	}
+}
